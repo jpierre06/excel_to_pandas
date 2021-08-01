@@ -1,0 +1,4 @@
+# Ignorar diretórios de checkpoint do jupyter
+MEDIASES/.ipynb_checkpoints/
+PROCV/.ipynb_checkpoints/
+SOMASES/.ipynb_checkpoints/
